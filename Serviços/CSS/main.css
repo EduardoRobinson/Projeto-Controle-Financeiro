@@ -1,0 +1,37 @@
+@media screen and (min-width: 1080px){
+body{
+	background-image: url(https://images.squarespace-cdn.com/content/v1/5782209c8419c2419a94782c/1598861839255-9ANQLNVWHW34QM4DWPR7/accounting.jpg?format=2500w);
+	 font-family: 'Courier New', monospace;
+	color: green;
+}
+
+button{
+	 font-family: 'Courier New', monospace;
+	font-size: 20px;
+	font-style: italic;
+	color: grenn;
+	background-color: grenn;
+	margin: 10px;
+
+}
+}
+
+@media screen and (max-width: 1080px){
+	body{
+	background-image: url(https://media-manager.noticiasaominuto.com.br/1920/1546254919/naom_5ba17e7561433.jpg);
+	 font-family: 'Courier New', monospace;
+	color: green;
+}
+
+button{
+	 font-family: 'Courier New', monospace;
+	font-size: 20px;
+	font-style: italic;
+	color: grenn;
+	background-color: grenn;
+	margin: 10px;
+
+}
+
+
+}
